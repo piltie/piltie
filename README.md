@@ -1,11 +1,7 @@
-- 👋 Hi, I’m @piltie
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-
-<!---
-piltie/piltie is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->![jl0o0nuq44l9syme9j](https://user-images.githubusercontent.com/95034183/198728635-b4ebff46-53bc-49e0-9a49-c2687ace84f3.svg)
-
+<svg xmlns="http://www.w3.org/2000/svg">
+  <foreignObject width="100%" height="100%">
+    <div xmlns="http://www.w3.org/1999/xhtml">
+      <img src="https://raw.githubusercontent.com/piltie/imgs/main/Hatsune.Miku.full.2567555.png"/>
+    </div>
+  </foreignObject>
+</svg>
