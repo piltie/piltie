@@ -1,6 +1,6 @@
 <svg><img src="https://raw.githubusercontent.com/piltie/imgs/main/Hatsune.Miku.full.2567555.png"/></svg>
 <br /><br />
-<p align=center><svg><img src="https://raw.githubusercontent.com/piltie/imgs/main/heart.gif"/></svg>⠀⠀Ｗｅｌｃｏｍｅ　ｔｏ　ｍｙ　ｐｒｏｆｉｌｅ⠀⠀<svg><img src="https://raw.githubusercontent.com/piltie/imgs/main/heart.gif"/></svg>
+<p align=center><svg><img src="https://raw.githubusercontent.com/piltie/imgs/main/heart.gif"/></svg>⠀⠀Ｗｅｌｃｏｍｅ⠀⠀<svg><img src="https://raw.githubusercontent.com/piltie/imgs/main/heart.gif"/></svg>
 <br /><br />
 <svg><img src="https://raw.githubusercontent.com/piltie/imgs/main/arrow_right.gif"/></svg>⠀⠀<a href="https://piltie.github.io">𝐀𝐁𝐎𝐔𝐓 𝐌𝐄</a>
 <br /><br />
