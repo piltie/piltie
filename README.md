@@ -1,10 +1,9 @@
-<svg><img src="https://raw.githubusercontent.com/piltie/imgs/main/logo.7ec241c3.png"/></svg>
-<br /><br />
-<p align=center>⠀⠀Ｗｅｌｃｏｍｅ⠀⠀
-<br /><br />
-<a href="https://piltie.github.io">𝐀𝐁𝐎𝐔𝐓 𝐌𝐄</a>
-<br /><br />
-<a href="https://www.linkedin.com/in/sarahcarlasouza">𝐋𝐈𝐍𝐊𝐄𝐃𝐈𝐍</a>
+<p align=center>
+  Engenheira de Software e Tech Lead com atuação em toda a stack, do backend à entrega de funcionalidades voltadas ao usuário. Lidero frentes técnicas em Segurança da Informação e cofundei o Agendazul, um SaaS de GRC atualmente em produção, onde meu papel vai além da engenharia e envolve estratégia de produto e decisões de negócio.
+<br/><br/>
+  Me interesso por problemas que estão na interseção entre tecnologia e necessidades reais de mercado, construindo soluções do zero e acompanhando até chegarem aos usuários.
+<br/><br/>
+  Também sou cofundadora da <VRDev/>, uma comunidade tech em Volta Redonda com mais de 400 membros, onde organizei eventos presenciais conectando desenvolvedores da região.
 <br/><br/><br/>
 <img src="https://github.com/piltie/imgs/blob/main/kisspng-c-programming-language-logo-microsoft-visual-stud-atlas-portfolio-5b899192d7c600.1628571115357423548838.png?raw=true" width="35"><img src="https://raw.githubusercontent.com/piltie/imgs/9240e036e988168488c2953c2fa731edb5abd7e2/NET-Framework-Logo.png" width="60"><img src="https://raw.githubusercontent.com/piltie/imgs/main/nodejs.png" width="60">⠀<img src="https://raw.githubusercontent.com/piltie/imgs/9240e036e988168488c2953c2fa731edb5abd7e2/732212.png" width="30">⠀<img src="https://github.com/piltie/imgs/blob/main/4202020css3htmllogosocialsocialmedia-115668_115633.png?raw=true" width="30">⠀<img src="https://github.com/piltie/imgs/blob/main/pngwing.com.png?raw=true" width="26.5">⠀<img src="https://raw.githubusercontent.com/piltie/imgs/9240e036e988168488c2953c2fa731edb5abd7e2/58482acecef1014c0b5e4a1e.png" width="30">⠀<img src="https://raw.githubusercontent.com/piltie/imgs/9240e036e988168488c2953c2fa731edb5abd7e2/React-icon.svg.png" width="30">⠀<img src="https://raw.githubusercontent.com/piltie/imgs/9240e036e988168488c2953c2fa731edb5abd7e2/tailwind-css-logo-5AD4175897-seeklogo.com.png" width="30">⠀<img src="https://raw.githubusercontent.com/piltie/imgs/9240e036e988168488c2953c2fa731edb5abd7e2/Bootstrap_logo.svg.png" width="30">⠀<img src="https://raw.githubusercontent.com/piltie/imgs/9240e036e988168488c2953c2fa731edb5abd7e2/Git-Icon-1788C.png" width="30">⠀<img src="https://raw.githubusercontent.com/piltie/imgs/9240e036e988168488c2953c2fa731edb5abd7e2/azure.svg" width="30">⠀<img src="https://raw.githubusercontent.com/piltie/imgs/9240e036e988168488c2953c2fa731edb5abd7e2/5848152fcef1014c0b5e4967.png" width="30">⠀<img src="https://github.com/piltie/imgs/blob/main/PikPng.com_server-clipart-png_4095243.png?raw=true" width="40"><img src="https://raw.githubusercontent.com/piltie/imgs/main/postgresql.png" width="30"><img src="https://github.com/piltie/imgs/blob/main/Oracle_logo.svg.png?raw=true" width="60">
 </p>
